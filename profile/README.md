@@ -10,25 +10,3 @@
   <a href="https://halberdtechnology.github.io/revolution/">Revolution</a> ·
   <a href="https://halberdtechnology.github.io/revolution/privacy/">Privacy</a>
 </p>
-
----
-
-### What we make
-
-We build native games that do one idea properly: monochrome tables with a single cyan accent, custom shaders, synthesized sound, no ads and no accounts.
-
-| Project | What it is | Status |
-|---|---|---|
-| **Revolution** | A bluffing card game | iOS, coming soon |
-| **War Wiki** | A community wiki and guide for the game War Era: guides, items, mechanics and a stats tracker. | Web |
-| **halberdtechnology.github.io** | Our website, App Store marketing and privacy pages. | Live |
-
-### How we build
-
-- **Rust + macroquad** for games, with GLSL shaders for everything on screen
-- **Host-authoritative multiplayer**: one phone hosts, hidden information never leaves it
-- **Offline-friendly** by design, because the best place to play is the back seat
-
-### Get in touch
-
-Bug reports and support requests: [kingvoidyt@gmail.com](mailto:kingvoidyt@gmail.com)
