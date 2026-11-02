@@ -5,7 +5,7 @@
 <h1 align="center">Halberd Technology</h1>
 
 <p align="center">
-  Small, sharp games. Built in Rust, shaded by hand.<br>
+  Small, sharp games.<br>
   <a href="https://halberdtechnology.github.io">Website</a> ·
   <a href="https://halberdtechnology.github.io/revolution/">Revolution</a> ·
   <a href="https://halberdtechnology.github.io/revolution/privacy/">Privacy</a>
@@ -19,7 +19,7 @@ We build native games that do one idea properly: monochrome tables with a single
 
 | Project | What it is | Status |
 |---|---|---|
-| **Revolution** | A bluffing card game for 2 to 6 players where everyone plays on their own iPhone. Claim any role, call out the liars, be the last one standing. | iOS, coming soon |
+| **Revolution** | A bluffing card game | iOS, coming soon |
 | **War Wiki** | A community wiki and guide for the game War Era: guides, items, mechanics and a stats tracker. | Web |
 | **halberdtechnology.github.io** | Our website, App Store marketing and privacy pages. | Live |
 
