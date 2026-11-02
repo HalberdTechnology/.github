@@ -31,4 +31,4 @@ We build native games that do one idea properly: monochrome tables with a single
 
 ### Get in touch
 
-Bug reports and support requests go to [issues on our website repo](https://github.com/HalberdTechnology/halberdtechnology.github.io/issues).
+Bug reports and support requests: [kingvoidyt@gmail.com](mailto:kingvoidyt@gmail.com)
